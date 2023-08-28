@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
+</div>
+
+
 - 👋 Hi, I’m Justin I am currently studying Computer Engineering Nanotech in University of Alberta Class of 2022
 - 👀 I’m interested in computer technologies involving middleware, embedded systems, and computer networks like IOT
 - 📫 You can reach me at my personal email at jdiala1499@gmail.com
