@@ -2,8 +2,22 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://ca.linkedin.com/in/jdiala">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100"/>
+  </a>
+</div>
 
-- 👋 Hi, I’m Justin I am currently studying Computer Engineering Nanotech in University of Alberta Class of 2022
+<div id="profileviews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+- Hi, I’m Justin I am currently studying Computer Engineering Nanotech in University of Alberta Class of 2022
 - 👀 I’m interested in computer technologies involving middleware, embedded systems, and computer networks like IOT
 - 📫 You can reach me at my personal email at jdiala1499@gmail.com
 - My Github Accounts:
